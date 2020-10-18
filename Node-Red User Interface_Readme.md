@@ -1,6 +1,12 @@
 
 Creating User Interface using Node Red for testing the model
 
+Services Used:
+
+Node-RED
+
+IBM Cloud Object Storage
+
 Step 1: Go to IBM cloud dashboard where you can find yourservices.
 
 Step 2: Search for Node red service under cloud foundry apps.
