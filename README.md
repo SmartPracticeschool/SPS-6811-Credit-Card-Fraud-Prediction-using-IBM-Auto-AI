@@ -5,7 +5,11 @@ Category: IBM Cloud Application
 
 Skills Required:
 
-IBM Nodered,IBM Watson Studio,IBM Machine Learning
+IBM Nodered
+
+IBM Watson Studio
+
+IBM Machine Learning
 
 Project Description:
 
@@ -16,8 +20,11 @@ Using IBM AutoAI, we automate all of the tasks involved in building predictive m
 Services Used:
 
 IBM Watson Studio
+
 IBM Watson Machine Learning
+
 Node-RED
+
 IBM Cloud Object Storage
 
 Steps using AutoAI
