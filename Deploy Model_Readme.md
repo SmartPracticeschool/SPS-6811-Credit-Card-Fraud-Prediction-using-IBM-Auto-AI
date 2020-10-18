@@ -4,7 +4,11 @@ Category: IBM Cloud Application
 
 Skills Required:
 
-IBM Nodered,IBM Watson Studio,IBM Machine Learning
+IBM Nodered
+
+IBM Watson Studio
+
+IBM Machine Learning
 
 Project Description:
 
@@ -12,7 +16,10 @@ This project discusses building a system for creating predictions that can be us
 
 Services Used:
 
-IBM Watson Studio IBM Watson Machine Learning Node-RED IBM Cloud Object Storage
+IBM Watson Studio 
+
+IBM Watson Machine Learning 
+
 
 Steps using AutoAI
 
