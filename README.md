@@ -147,6 +147,14 @@ Step 11: Creating User Interface using Node Red for testing the model
 
 11.13. Provide input for the application to predict the fraud risk label either as 0 or 1.
 
+Node Flow Link:
+
+https://node-red-eqvma-2020-10-16.eu-gb.mybluemix.net/red/#flow/aa7d454d.68fd88
+
+Node-Red User Interface Link:
+
+https://node-red-eqvma-2020-10-16.eu-gb.mybluemix.net/ui/#!/0?socketid=qEW2cQvYnpq0kxuoAAAU
+
 
 
 
