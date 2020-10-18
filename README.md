@@ -156,6 +156,9 @@ Node-Red User Interface Link:
 https://node-red-eqvma-2020-10-16.eu-gb.mybluemix.net/ui/#!/0?socketid=qEW2cQvYnpq0kxuoAAAU
 
 
+Video Demonstartion Link:
+
+
 
 
 
