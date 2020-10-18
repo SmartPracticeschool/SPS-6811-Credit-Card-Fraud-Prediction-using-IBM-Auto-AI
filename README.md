@@ -158,6 +158,7 @@ https://node-red-eqvma-2020-10-16.eu-gb.mybluemix.net/ui/#!/0?socketid=qEW2cQvYn
 
 Video Demonstartion Link:
 
+https://youtu.be/HsNew2ZNkdQ
 
 
 
