@@ -93,6 +93,7 @@ Step 10: Test the Model
 
 
 Step 11: Creating User Interface using Node Red for testing the model
+
 11.1. Go to IBM cloud dashboard where you can find yourservices.
 11.2. Search for Node red service under cloud foundry apps.
 11.3. click on node red resource where you will be direcetd to a page and find a link as visit app url click on it.
